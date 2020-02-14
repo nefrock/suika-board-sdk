@@ -7,6 +7,7 @@ ArduinoISP の詳しい説明が知りたい方は[こちら](https://www.arduin
 なお、購入時の Suika-Board への Bootloader は、書き込み済みですので、Suika-Board への Bootloader の書き込みは不要です。
 
 ## 1. Arduino に ArduinoISP を書き込む (初回のみ)
+1. Suika Boardから電池を外す
 1. Arduinoアプリを以下からダウンロードしてインストール
 	- https://www.arduino.cc/en/Main/Software
 1. ボードファイルをダウンロード
@@ -25,6 +26,7 @@ ArduinoISP の詳しい説明が知りたい方は[こちら](https://www.arduin
    - メニューバーのスケッチ=>マイコンボードに書き込む
 
 ## 2. Suika-Board に Arduino を経由してプログラムを書き込む
+1. Suika Boardから電池を外す
 1. PC から Arduino を"外す"
 1. Suika-Boardにコネクタを繋ぐ
 	- ![Arduino](img/4.jpg)![Arduino](img/5.jpg)
