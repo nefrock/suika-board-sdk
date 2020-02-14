@@ -6,7 +6,7 @@
 
 - Arduino (説明では Arduino UNO を用いて説明します)
 - Suika Board
-- Suika Write ケーブル
+- Suika 書き込みケーブル
 
 # ディレクトリ構成
 
